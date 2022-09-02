@@ -1,5 +1,5 @@
 ---
-title: "Update is just around the corner"
+title: "Update is just around a large, seemingly unending, series of corners."
 thumb: /assets/posts/2022-august-development-update/3.png
 thumb_square: /assets/posts/2022-august-development-update/2.png
 ---
